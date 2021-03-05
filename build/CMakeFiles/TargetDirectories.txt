@@ -1,0 +1,3 @@
+/mnt/hgfs/Robo/BuildMyWorld/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Robo/BuildMyWorld/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/Robo/BuildMyWorld/build/CMakeFiles/welcome.dir
